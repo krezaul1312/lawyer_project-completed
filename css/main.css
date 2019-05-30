@@ -111,7 +111,7 @@ nav ul li a:hover{}
 .content a{}
 .content a:hover{}
 .Arrow-Dwon{
-    font-size: 20px;
+    font-size: 22px;
     position: absolute;
     color: #ffff;
     bottom: 90px;
@@ -119,7 +119,7 @@ nav ul li a:hover{}
     transform: translatex(-50%);
 
     animation-name: up-down;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
