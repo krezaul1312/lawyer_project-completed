@@ -104,8 +104,9 @@ nav ul li a:hover{}
 .content h1{
     font-size: 80px;
     font-weight: 700;
-    max-width: 662px;
+    max-width: 755px;
     text-align: center;
+    text-transform: uppercase;
 }
 .content a{}
 .content a:hover{}
